@@ -6,6 +6,7 @@ This repository contains comprehensive implementations of various Design Pattern
 
 - [Overview](#overview)
 - [Design Patterns Implemented](#design-patterns-implemented)
+- [Project Structure](#project-structure)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Author](#author)
@@ -15,6 +16,9 @@ This repository contains comprehensive implementations of various Design Pattern
 Design patterns are reusable solutions to commonly occurring problems in software design. This repository provides clean, well-documented implementations of popular design patterns, making it easier to understand and apply these patterns in real-world projects.
 
 ## 🔧 Design Patterns Implemented
+
+### Creational Patterns
+- **Builder Pattern** - Constructs complex objects step by step with a fluent interface
 
 ### Structural Patterns
 - **Adapter Pattern** - Allows incompatible interfaces to work together
@@ -53,8 +57,6 @@ To run any pattern example:
 1. Navigate to the specific pattern's directory
 2. Compile and run the Main.java file
 3. Observe the pattern implementation in action
-
-```
 
 ## 👨‍💻 Author
 
